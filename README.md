@@ -1,2 +1,3 @@
 # git-intro
-Template Repository for git introductory lesson
+Madara's Repository for git introductory lesson
+nevermind
